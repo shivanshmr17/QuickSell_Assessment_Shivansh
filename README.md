@@ -40,19 +40,6 @@ To deploy this project run
   npm run deploy
 ```
 
-## Screenshots
-
-![Image](https://github.com/dewan2002/Mayank_QuickSell_Assignment/assets/80190765/9762881b-2a97-413c-92b8-bd714832cf0c)
-
-![image](https://github.com/dewan2002/Mayank_QuickSell_Assignment/assets/80190765/729287a4-4390-4f61-bbe4-9a7a693270d0)
-
-![image](https://github.com/dewan2002/Mayank_QuickSell_Assignment/assets/80190765/4b5e68da-4f56-4419-9939-2ea07794e9cf)
-
-![image](https://github.com/dewan2002/Mayank_QuickSell_Assignment/assets/80190765/7bf04cd7-e574-4be9-beca-e419284ffab9)
-
-![image](https://github.com/dewan2002/Mayank_QuickSell_Assignment/assets/80190765/a5e471c7-707a-4c10-a065-8b8d136453ed)
-
-![image](https://github.com/dewan2002/Mayank_QuickSell_Assignment/assets/80190765/ec205939-8f49-4deb-a6b1-792c8a4a2f3a)
 
 
 
