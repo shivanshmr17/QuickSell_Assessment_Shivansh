@@ -1,4 +1,4 @@
-## Mayank QuickSell Assignment (Kanban Board Application)
+## Shivansh QuickSell Assignment (Kanban Board Application)
 
 The Kanban Board application is a project management tool that leverages the power of the Kanban methodology to help teams organize and manage their work efficiently. Built using React, a declarative and component-based JavaScript library, this application provides a dynamic and responsive user interface for visualizing and tracking tasks through different stages of a project.
 
@@ -29,7 +29,7 @@ This project utilizes the following API for providing {key, value} pairs for dif
 
 ## Authors
 
-- [@dewan2002](https://github.com/dewan2002)
+- [@Shivansh](https://github.com/shivanshmr17)
 
 
 ## Deployment
