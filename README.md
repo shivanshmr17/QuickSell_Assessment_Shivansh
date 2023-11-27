@@ -55,5 +55,4 @@ To deploy this project run
 ![image](https://github.com/dewan2002/Mayank_QuickSell_Assignment/assets/80190765/ec205939-8f49-4deb-a6b1-792c8a4a2f3a)
 
 
-#### Deployed on Netlify:
-https://mayank-kanban-quicksell.netlify.app/
+
